@@ -1,0 +1,1 @@
+## Basic FiveM script template. :D ##
